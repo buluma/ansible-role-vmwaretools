@@ -1,0 +1,8 @@
+---
+#
+# Ansible managed
+#
+repository:
+  description: Installation of vmware-tools package and repostory
+  homepage: https://buluma.github.io/
+  topics: cloud, system, vmware, vmwaretools, ansible, molecule, tox, playbook, hacktoberfest
